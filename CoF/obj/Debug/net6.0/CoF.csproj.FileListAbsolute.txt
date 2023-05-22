@@ -1,0 +1,15 @@
+C:\Users\yozor\source\repos\Lab6\CoF\bin\Debug\net6.0\CoF.exe
+C:\Users\yozor\source\repos\Lab6\CoF\bin\Debug\net6.0\CoF.deps.json
+C:\Users\yozor\source\repos\Lab6\CoF\bin\Debug\net6.0\CoF.runtimeconfig.json
+C:\Users\yozor\source\repos\Lab6\CoF\bin\Debug\net6.0\CoF.dll
+C:\Users\yozor\source\repos\Lab6\CoF\bin\Debug\net6.0\CoF.pdb
+C:\Users\yozor\source\repos\Lab6\CoF\obj\Debug\net6.0\CoF.csproj.AssemblyReference.cache
+C:\Users\yozor\source\repos\Lab6\CoF\obj\Debug\net6.0\CoF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yozor\source\repos\Lab6\CoF\obj\Debug\net6.0\CoF.AssemblyInfoInputs.cache
+C:\Users\yozor\source\repos\Lab6\CoF\obj\Debug\net6.0\CoF.AssemblyInfo.cs
+C:\Users\yozor\source\repos\Lab6\CoF\obj\Debug\net6.0\CoF.csproj.CoreCompileInputs.cache
+C:\Users\yozor\source\repos\Lab6\CoF\obj\Debug\net6.0\CoF.dll
+C:\Users\yozor\source\repos\Lab6\CoF\obj\Debug\net6.0\refint\CoF.dll
+C:\Users\yozor\source\repos\Lab6\CoF\obj\Debug\net6.0\CoF.pdb
+C:\Users\yozor\source\repos\Lab6\CoF\obj\Debug\net6.0\CoF.genruntimeconfig.cache
+C:\Users\yozor\source\repos\Lab6\CoF\obj\Debug\net6.0\ref\CoF.dll
